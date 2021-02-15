@@ -6,9 +6,9 @@ Namun, pada tahun 2020 dan setelahnya, pendapatan usaha Eren berkurang dikarenak
 Kerugian yang dialami usaha Eren berkurang hingga 25%, Hitunglah total pendapatan usaha Eren 2 tahun setelah dibukanya usaha Eren!
 '''
 # Input User
-a = 25000000 #int(input("Masukkan pendapatan per bulan = "))          # Pendapatan
-b = 10000000 #int(input("Masukkan maintenance cost per bulan = "))    # Maintenance Cost
-c = 2 #int(input("Berapa tahun yang anda ingin hitung? "))            # Tahun
+a = 25000000                                                          # Pendapatan
+b = 10000000                                                          # Maintenance Cost
+c = 2                                                                 # Tahun
 d = c * 12                                                            # Jumlah Bulan
 
 b1 = b * d                                                            # Total maintenance cost
