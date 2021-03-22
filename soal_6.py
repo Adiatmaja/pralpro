@@ -1,10 +1,10 @@
 ''' Strings
 Anda diminta untuk membuat sebuah program yang dapat mendata nama dan tanggal lahir dalam 1 inputan
-sebelum input data, buatlah ebuah menu yang berisi:
+sebelum input data, buatlah sebuah menu yang berisi:
 1. Input data
 2. Tunjukkan data
 3. Exit
-Jika user memilih 2 tetapi belum emnginputkan data maka keluarkan output "Anda belum menginputkan data"
+Jika user memilih 2 tetapi belum menginputkan data maka keluarkan output "Anda belum menginputkan data"
 Input memiliki Format:
 <nama>/<tanggal>-<bulan>-<tahun> atau <tanggal>-<bulan>-<tahun>/<nama>
 Setelah berhasil menginputkan data, tunjukannlah data yang diinputkan dengan format:
